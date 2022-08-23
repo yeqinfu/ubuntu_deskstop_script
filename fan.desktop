@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name = fanqiang
+Exec = /home/std/soft/script/fanqiang.sh
+Path = /home/std/soft/script
+Icon= /home/std/soft/script/fan.png
+Terminal= true
+Type = Application

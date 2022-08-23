@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name = tim
+Exec = /home/std/soft/script/qq/start_qq.sh
+Path = /home/std/soft/script/qq/
+Icon= /home/std/soft/script/qq/QQ.png
+Terminal= true
+Type = Application
